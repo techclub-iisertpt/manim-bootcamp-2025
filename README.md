@@ -30,7 +30,7 @@ Here’s what you’ll find in this repo (and we’ll be adding more as the boot
 
 ## 🚀 Getting Started
 
-Ready to jump in? Here’s how:
+Ready to jump in? Here’s how (coming soon):
 
 1. **Install Manim**:
     Follow the instructions in the `INSTALL.md` file to get Python and Manim installed on your system.
