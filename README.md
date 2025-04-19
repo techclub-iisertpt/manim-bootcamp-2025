@@ -22,11 +22,11 @@ This bootcamp is broken into multiple sessions, each focusing on a different asp
 
 Here’s what you’ll find in this repo (and we’ll be adding more as the bootcamp progresses):
 
-- **Session Scripts**: Example Manim scripts for each session.
+- **Session Scripts**: Example Manim scripts for each session which even includes the hands-on short projects.
 - **Installation Guides**: Step-by-step instructions to get Manim up and running on your system.
-- **Hands-On Lab Files**: Lab exercises to guide your learning and practice.
+<!-- - **Hands-On Lab Files**: Lab exercises to guide your learning and practice. -->
 - **Demo Animations**: Pre-rendered animations that show off what’s possible with Manim.
-- **Resources**: Extra reading materials, references, and tutorials to dive deeper.
+- **Resources (Coming soon)**: Extra reading materials, references, and tutorials to dive deeper.
 
 ## 🚀 Getting Started
 
@@ -36,14 +36,14 @@ Ready to jump in? Here’s how (coming soon):
     Follow the instructions in the `INSTALL.md` file to get Python and Manim installed on your system.
 
 2. **Run the Example Scripts**:
-    Start with `session1_basic_animation.py` to see how simple animations are made.
+    Start with `Manim_Session_1.ipynb` to see how simple animations within it we have included Google Colab Link so that you can run it online without locally running it in laptop.
 
-3. **Complete the Hands-On Labs**:
-    Each session has a lab for you to create your own animations. Check the `labs` folder to find all the exercises!
+<!-- 3. **Complete the Hands-On Labs**:
+    Each session has a lab for you to create your own animations. Check the `labs` folder to find all the exercises! (later as part of summer break) -->
 
 ## 🛠️ Troubleshooting
 
-If you run into any problems, don’t worry! The `TROUBLESHOOTING.md` file (coming soon) will have solutions to common issues. 💡
+If you run into any problems, don’t worry! The `TROUBLESHOOTING.md` file will have solutions to common issues shared during the sessions. 💡
 
 ## 🔮 Future Sessions
 
